@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <color name="gray050">#F9F9F9</color>
+    <color name="gray100">#F4F4F4</color>
+    <color name="gray300">#DFDFDF</color>
+    <color name="gray500">#9d9d9d</color>
+    <color name="gray700">#414141</color>
+    <color name="gray900">#202020</color>
+
+    <color name="limeA700">#ADE900</color>
+
+    <color name="green800">#548A2E</color>
+    <color name="green700">#679E37</color>
+    <color name="green600">#7BB241</color>
+    <color name="green500">#ADD480</color>
+    <color name="green300">#C4E0A4</color>
+
+    <color name="orange500">#FF9800</color>
+    <color name="yellow500">#FFC107</color>
+    <color name="red500">#D32F2F</color>
+    
+    <color name="verde_transparente">#402FB00A</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    
+    <color name="menubusqueda">#1B5E20</color>
+    <color name="menureservaciones">#2E7D32</color>
+    <color name="menuhistorial">#388E3C</color>
+    <color name="menufavoritos">#43A047</color>
+    <color name="menuperfil">#4CAF50</color>
+
+</resources>

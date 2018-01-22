@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    
+    <style name="PrincipalTheme" parent="PrincipalTheme.Base">
+    </style>
+    <style name="PrincipalTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/limeA700</item>
+        <item name="colorPrimaryDark">@color/green800</item>
+        <item name="colorAccent">@color/green600</item>
+    </style>
+
+    <style name="PrincipalThemeTitle" parent="PrincipalThemeTitle.Base">
+    </style>
+    <style name="PrincipalThemeTitle.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="colorPrimary">@color/limeA700</item>
+        <item name="colorPrimaryDark">@color/green800</item>
+        <item name="colorAccent">@color/green600</item>
+    </style>
+    
+    <!-- Estilo para el Diálogo de Confirmación. -->
+    <style name="Theme.Dialog" parent="android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+</resources>
